@@ -1,3 +1,4 @@
+#If you want to build a weather station but don't want to upload the data to google sheets, you can use this code to build it.
 #!/usr/bin/python
 from sense_hat import SenseHat
 import time
